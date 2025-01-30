@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AnimalTests::testVersoPerro":8,"AnimalTests::testToStringPerro":7},"times":{"AnimalTests::testVersoGato":0.005,"AnimalTests::testVersoPerro":0,"AnimalTests::testToStringGato":0.001,"AnimalTests::testToStringPerro":0}}
